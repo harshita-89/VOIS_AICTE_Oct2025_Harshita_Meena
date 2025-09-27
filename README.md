@@ -52,6 +52,9 @@ Availability Trends: Listing availability throughout the year.
 Review Patterns: Number of reviews and ratings to gauge guest satisfaction.
 
  ## Getting Started
+ 
+ - Download the zip dataset file and extract it
+ 
 1. Running in Google Colab
 
    ```python import pandas as pd
